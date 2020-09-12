@@ -7,3 +7,7 @@ Le site est en cours de développement...
 - Développeur : IkaRio198 alias IkaRio
 - Discord : IkaRio#8704
 - Twitter : https://twitter.com/IkaRio9
+
+### Ouvrir le site
+Les pages du sites ne sont pour le moment pas encore hébergées...
+Pour accéder au site localement, téléchargez l'archive et ouvrez : `Site/home/index.html`
