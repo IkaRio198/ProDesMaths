@@ -11,3 +11,8 @@ Le site est en cours de développement...
 ### Ouvrir le site
 Les pages du sites ne sont pour le moment pas encore hébergées...
 Pour accéder au site localement, téléchargez l'archive et ouvrez : `Site/home/index.html`
+
+### Mot de passe pour extraire l'archive*
+`Ajw4x5PAMnpoa6xmjBa`
+
+*Seulement pour certains cas!
