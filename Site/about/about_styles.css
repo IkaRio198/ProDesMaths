@@ -1,0 +1,28 @@
+body {
+    background-color: wheat;
+}
+
+.titrea {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+.button{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.redire {
+    text-decoration: none;
+    color: black;
+    background-color: lightyellow;
+    padding: 10px;
+    margin: 120px;
+    font-size: 18px;
+}
+
+.redire:hover {
+     background-color: yellow;
+     transition: 1s;
+}
