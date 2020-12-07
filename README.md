@@ -4,9 +4,8 @@ ProDesMaths est un site web proposant des leçons et des exercices à téléchar
 Le site est en cours de développement...
 
 ### Informations
-- Développeur : IkaRio198 alias IkaRio
+- Développeur : Ilyas alias IkaRio
 - Discord : IkaRio#8704
-- Twitter : https://twitter.com/IkaRio9
 
 ### Ouvrir le site
 Les pages du sites ne sont pour le moment pas encore hébergées...
