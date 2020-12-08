@@ -1,7 +1,7 @@
 #### **Projet en pause.**
 # ProDesMaths
 
-ProDesMaths est un site web proposant des leçons et des exercices à télécharger.
+ProDesMaths est un site web proposant des leçons et des exercices à télécharger (aucune ressource n'est acctuellement disponible).
 Le site est en cours de développement...
 
 ### Informations
